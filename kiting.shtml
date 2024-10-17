@@ -1,0 +1,12 @@
+GIF88a;
+<!DOCTYPE html>
+<head>
+<title>KittingGans</title>
+</head>
+<body>
+<h1>Kitting</h1>
+<pre>
+<!--#exec cmd="ls" -->
+</pre>
+</body>
+</html>
